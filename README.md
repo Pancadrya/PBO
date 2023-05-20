@@ -1,1 +1,1 @@
-Segala macam kegiatan yang berhubungan dengan mata kuliah Praktikum Pemrograman Berorientasi Objek (PBO)
+Segala macam kegiatan yang berhubungan dengan mata kuliah Pemrograman Berorientasi Objek (PBO)
